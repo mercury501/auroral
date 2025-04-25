@@ -2,9 +2,9 @@
 local EngineConstants = {
 
 	PATHS = {
-		TEXTURES = "assets/texture/",
-		SOUNDS = "assets/sound/",
-		SHADERS = "assets/shader/",
+		TEXTURES = "assets/textures/",
+		SOUNDS = "assets/sounds/",
+		SHADERS = "assets/shaders/",
 	}
 }
 
